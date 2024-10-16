@@ -5,8 +5,6 @@
 
 Git is a distributed version control system designed to track changes in source code during software development. It allows multiple developers to work on the same project simultaneously without conflicts. Git is crucial for DevOps engineers because it facilitates collaboration, enhances code quality through review, and ensures a reliable history of project changes.
 
-![Git Workflow Diagram](https://i.imgur.com/UFwLbBo.png)  
-*Handmade Git Workflow*
 
 Git's branching and merging capabilities, along with its distributed nature, make it an essential tool in automating, testing, and deploying code, thereby ensuring seamless CI/CD pipelines.
 
@@ -30,8 +28,7 @@ Both "main" and "master" are considered the primary branches where stable produc
 
 In simple terms, Git works locally on your machine to manage the version history of your code, whereas GitHub acts as a remote host for Git repositories, making them accessible for collaboration over the internet.
 
-![Git vs GitHub Diagram](https://i.imgur.com/ylzAfct.png)  
-*Handmade Git vs GitHub*
+
 
 ---
 
