@@ -1,1 +1,1 @@
-# devops is life because it automate the things
+# devops is life because speed up the development lifecycle.
