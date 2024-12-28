@@ -1,1 +1,1 @@
-# devops.
+# devops optimize the SDLC.
