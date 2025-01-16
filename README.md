@@ -1,1 +1,1 @@
-# devops cloud native approach.
+# DevOps Cloud Native approach.
